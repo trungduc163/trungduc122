@@ -14,7 +14,7 @@
  * * ABSPATH
  *
  * @link https://wordpress.org/support/article/editing-wp-config-php/
- *
+ * trungduc thuong tin .......
  * @package WordPress
  */
 
